@@ -8,8 +8,9 @@ Ce projet est un outil d'analyse pour aider un administrateur de site e-commerce
 - MongoDB (local ou cloud, comme MongoDB Atlas)
 - Vue CLI (pour le frontend)
 
-## Installation des Dépendances![image](https://github.com/user-attachments/assets/0f467b74-7e31-4893-81c8-14d99377d68f)
-![image](https://github.com/user-attachments/assets/fd27e7e8-3b54-4cb3-a2c7-effb49bb7c53)
+## Installation des Dépendances
+npm install
+
 
 
 ### Backend
@@ -56,5 +57,7 @@ GET http://localhost:5000/analytics/total_sales?startDate=2023-01-01&endDate=202
    GET http://localhost:5000/products
    
 
-  
+  images : ![image](https://github.com/user-attachments/assets/d77ad044-5371-4dd2-beca-bf04d9acceda)  ![image](https://github.com/user-attachments/assets/987f0c3d-5dc5-41d4-aa74-2061c79b5ea6)
+
+
 
