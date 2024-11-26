@@ -8,7 +8,9 @@ Ce projet est un outil d'analyse pour aider un administrateur de site e-commerce
 - MongoDB (local ou cloud, comme MongoDB Atlas)
 - Vue CLI (pour le frontend)
 
-## Installation des Dépendances
+## Installation des Dépendances![image](https://github.com/user-attachments/assets/0f467b74-7e31-4893-81c8-14d99377d68f)
+![image](https://github.com/user-attachments/assets/fd27e7e8-3b54-4cb3-a2c7-effb49bb7c53)
+
 
 ### Backend
 1. Accédez au répertoire du backend :
